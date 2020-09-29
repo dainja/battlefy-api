@@ -1,6 +1,8 @@
-# battlefy-api
+# [Battlefy.com](https://battlefy.com/) API
 An unofficial Battlefy API.
 
+
+## Available functions
 Endpoint | Usage
 --- | ---
 getPopularGames | Get popular games
