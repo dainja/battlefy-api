@@ -1,0 +1,9 @@
+{
+  "name": "battlefy-api",
+  "version": "1.0.0",
+  "description": "An unofficial Battlefy API.",
+  "main": "index.js",
+  "repository": "https://github.com/guilherssousa/battlefy-api",
+  "author": "Guilherme Sousa",
+  "license": "MIT"
+}
