@@ -35,6 +35,10 @@ const functions = {
             response.data[match].winner = winner;
         }
         return response.data;
+    },
+    getTournamentTeams: async (id) => {
+        const response = await tournamentApi.get(`tournaments/${id}/teams`);
+        return response.data;
     }
 }
 
